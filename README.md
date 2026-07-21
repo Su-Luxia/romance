@@ -9,3 +9,6 @@ No additions needed. Basic html, css and js code just with more details e.g. eac
 
 it looks like this:
 <img width="1917" height="872" alt="luv3" src="https://github.com/user-attachments/assets/876102fb-337b-4694-b7ed-d91896885747" />
+
+AI usage:
+AI was only used for some error improvements and git commands.
